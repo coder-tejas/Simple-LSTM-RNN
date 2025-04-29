@@ -25,7 +25,7 @@ These gates make LSTMs highly effective for tasks involving:
 - Natural language processing (e.g. text generation, sentiment analysis)
 - Sequence classification
 
-![LSTM Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3_j6jI8nZMEk0J4ZqRsRxw.png)
+![LSTM Diagram](https://miro.medium.com/v2/resize:fit:984/1*Mb_L_slY9rjMr8-IADHvwg.png)
 
 ---
 
