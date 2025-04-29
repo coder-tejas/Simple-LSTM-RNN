@@ -25,29 +25,19 @@ These gates make LSTMs highly effective for tasks involving:
 - Natural language processing (e.g. text generation, sentiment analysis)
 - Sequence classification
 
----
-
-## 📂 Files
-```
-Simple-LSTM-RNN/
-├── LSTM_RNN.ipynb    # Jupyter notebook containing the full implementation
-├── requirements.txt  # Dependencies
-└── README.md         # You're reading it!
-```
+![LSTM Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3_j6jI8nZMEk0J4ZqRsRxw.png)
 
 ---
 
 ## 🚀 How to Run
 
-### 🧰 Option 1: Using Conda (Recommended)
+### 🧰 Setup using Conda (Recommended)
 ```bash
 conda create -n lstm_env python=3.10 -y
 conda activate lstm_env
 pip install -r requirements.txt
 jupyter notebook LSTM_RNN.ipynb
 ```
-
-
 
 ---
 
@@ -64,7 +54,6 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 ```
-![Alt text](1_Mb_L_slY9rjMr8-IADHvwg.png)
 
 ---
 
