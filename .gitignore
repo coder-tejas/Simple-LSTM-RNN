@@ -1,2 +1,10 @@
 # Virtual environment
 venv/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff

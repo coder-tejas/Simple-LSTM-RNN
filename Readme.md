@@ -47,13 +47,7 @@ pip install -r requirements.txt
 jupyter notebook LSTM_RNN.ipynb
 ```
 
-### 🧪 Option 2: Using Virtualenv
-```bash
-python -m venv lstm_env
-source lstm_env/bin/activate  # On Windows: lstm_env\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook LSTM_RNN.ipynb
-```
+
 
 ---
 
@@ -70,6 +64,7 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 ```
+![Alt text](1_Mb_L_slY9rjMr8-IADHvwg.png)
 
 ---
 
